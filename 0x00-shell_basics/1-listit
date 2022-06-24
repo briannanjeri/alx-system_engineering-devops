@@ -1,1 +1,2 @@
- echo -e "#!/bin/bash\nApplications    Documents   Dropbox Movies Pictures Desktop Downloads   Library Music Public"
+#!/bin/bash
+pwd

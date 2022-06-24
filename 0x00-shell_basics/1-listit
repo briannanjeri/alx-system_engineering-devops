@@ -1,2 +1,1 @@
-#!/bin/bash "\n"
-Applications    Documents   Dropbox Movies Pictures Desktop Downloads   Library Music Public
+ echo -e "#!/bin/bash\nApplications    Documents   Dropbox Movies Pictures Desktop Downloads   Library Music Public"

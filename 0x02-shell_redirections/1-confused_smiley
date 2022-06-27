@@ -1,2 +1,2 @@
 #!/bin/bash
-ls
+cat 1-confused_smiley

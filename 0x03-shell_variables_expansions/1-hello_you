@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd 'hello user'
+echo "hello $USER"

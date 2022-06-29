@@ -1,2 +1,2 @@
 #!/bin/bash
-alias p
+alias pl='hello user'
